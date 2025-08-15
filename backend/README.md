@@ -20,4 +20,4 @@ This is the backend API for the MedDrop medicine donation application.
 1. Clone this repository:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone <REPO_URL>
